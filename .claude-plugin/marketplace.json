@@ -1,0 +1,21 @@
+{
+  "name": "taste-skill",
+  "owner": {
+    "name": "BuiltByPraxis",
+    "url": "https://github.com/BuiltByPraxis"
+  },
+  "plugins": [
+    {
+      "name": "taste-skill",
+      "source": ".",
+      "description": "8 frontend design skills that override default LLM biases to produce premium, modern UI code — taste, motion, typography, spacing, and anti-generic design patterns.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Leon (Leonxlnx)",
+        "url": "https://x.com/lexnlin"
+      },
+      "homepage": "https://tasteskill.dev",
+      "keywords": ["design", "frontend", "ui", "ux", "animation", "typography"]
+    }
+  ]
+}
